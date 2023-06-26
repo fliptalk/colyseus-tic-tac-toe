@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "HTML5 Tic-Tac-Toe Game powered by Colyseus",
   "scripts": {
-    "install": "npm install --prefix ./server && npm install --prefix ./javascript-pixi && npm run build --prefix ./frontend",
+    "install": "npm install --prefix ./server && npm install --prefix ./javascript-pixi && npm run build --prefix ./javascript-pixi",
     "start": "npm start --prefix ./server"
   },
   "author": "Endel Dreyer",
